@@ -15,5 +15,5 @@ NLP Application for Sentiment Analysis on Plays. This program is designed to ass
 
 # Testing (2 Files)
 You can download 2 files to test and see how the program run which was uploaded for the test
-- Pdftest.pdf
-- txttest.txt 
+- test-pdf.pdf
+- test-text.txt 
